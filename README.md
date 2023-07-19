@@ -30,3 +30,8 @@ Alpine is a simple chat application built with socket.io.  It does not relay on 
 
 ## Usage
 Frontend is made using vite+react. The chat application should be normally accessible in http://localhost:5173.
+
+ ## Demo
+
+https://github.com/adhitht/alpine/assets/46214482/552e1b8c-b50f-4049-8ccf-cf1b3d36a073
+
